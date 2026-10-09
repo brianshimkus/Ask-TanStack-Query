@@ -31,3 +31,10 @@ A: The scripts ran, but the pile is messy. Some accepted answers are from olfer 
 
 Q: What I learned?
 A: A lot of the answers are old and a lot of them link to a docs page.
+
+## Day 3: bad chunks
+InfiniteQueryObserverOptions
+ether errors should be thrown...
+
+TimeoutManager
+meoutManager } from '@tanstack/query-core'...
