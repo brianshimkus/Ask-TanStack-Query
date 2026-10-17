@@ -62,3 +62,21 @@ ether errors should be thrown...
 ```text
 meoutManager } from '@tanstack/query-core'...
 ```
+
+## Day 4
+
+• staleTime and gcTime. Now right. It called gcTime the rename of cacheTime and cited the migration page.
+• Code after a query succeeds. It no longer invents onSuccess. It also does not find the page that explains the real replacement. The search missed.
+• teleport(). Correct refusal. The method is not in the docs.
+
+> **What I did.**
+>
+>Asked three questions in the terminal. Each answer came with the pages it used.
+
+> **What broke.**
+>
+>The staleTime answer was cut off until I raised the token ceiling. The "after a query succeeds" question got the wrong pages, so the honest answer was "I couldn't find this in the docs."
+
+> **What I learned.**
+>
+>With the pages in front of it, the model stops guessing. A wrong answer now usually means the search brought the wrong cards.
