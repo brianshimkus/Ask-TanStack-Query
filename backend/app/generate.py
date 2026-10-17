@@ -11,7 +11,7 @@ Use ONLY the numbered sources you are given.
 
 # A ceiling on answer length, which also caps cost. Reasoning models count their hidden
 # "thinking" toward this limit, so if answers come back empty or cut off, raise it.
-MAX_OUTPUT_TOKENS = 2000
+MAX_OUTPUT_TOKENS = 4000
 
 
 def build_prompt(question, chunks):
